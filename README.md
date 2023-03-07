@@ -1,4 +1,18 @@
-# Lumen PHP Framework
+# Api REST using Lumen Framework and MySQL database
+
+Example CRUD API REST with Lumen Framework
+
+Operations
+
+- Create
+- Read
+- Update
+- Delete
+
+<details>
+
+<summary>Lumen PHP Framework</summary
+
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel/lumen-framework)](https://packagist.org/packages/laravel/lumen-framework)
@@ -24,3 +38,6 @@ If you discover a security vulnerability within Lumen, please send an e-mail to 
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+</details>
+
